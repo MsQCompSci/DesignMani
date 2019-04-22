@@ -1,0 +1,8 @@
+h1, h2, h3, h4, h5, h6, p, a{
+    font-family: Montserrat;
+}
+    
+#title{
+    font-weight: 900;
+    text-shadow: 4px 4px 4px #aaa; /*Shadow for title to pop on white bg */
+}
